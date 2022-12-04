@@ -1,0 +1,38 @@
+{
+	"window" : 
+	{
+		"title" : "Pong",
+		"width" : 1280,
+		"height" : 768
+	},
+
+	"input" :
+	[
+		{ "tag" : "left", "keycode" : 65 },
+		{ "tag" : "right", "keycode" : 68 },
+		{ "tag" : "up", "keycode" : 87 },
+		{ "tag" : "down", "keycode" : 83 },
+		{ "tag" : "action", "keycode" : 32 }
+	],
+
+	"textures" :
+	[
+		{ "tag" : "ball", "file" : "asset/textures/ball.tga" },
+		{ "tag" : "ball_effect1", "file" : "asset/textures/effects/effect1.tga" },
+		{ "tag" : "ball_effect2", "file" : "asset/textures/effects/effect2.tga" },
+		{ "tag" : "ball_effect3", "file" : "asset/textures/effects/effect3.tga" },
+		{ "tag" : "racket", "file" : "asset/textures/racket.tga" },
+		{ "tag" : "wall", "file" : "asset/textures/wall.tga" },
+		{ "tag" : "number0", "file" : "asset/textures/numbers/0.tga" },
+		{ "tag" : "number1", "file" : "asset/textures/numbers/1.tga" },
+		{ "tag" : "number2", "file" : "asset/textures/numbers/2.tga" },
+		{ "tag" : "number3", "file" : "asset/textures/numbers/3.tga" },
+		{ "tag" : "number4", "file" : "asset/textures/numbers/4.tga" },
+		{ "tag" : "number5", "file" : "asset/textures/numbers/5.tga" },
+		{ "tag" : "number6", "file" : "asset/textures/numbers/6.tga" },
+		{ "tag" : "number7", "file" : "asset/textures/numbers/7.tga" },
+		{ "tag" : "number8", "file" : "asset/textures/numbers/8.tga" },
+		{ "tag" : "number9", "file" : "asset/textures/numbers/9.tga" },
+		{ "tag" : "colon", "file" : "asset/textures/numbers/colon.tga" }
+	]
+}

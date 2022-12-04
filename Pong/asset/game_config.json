@@ -1,0 +1,19 @@
+{
+	"character":
+	{
+		"speed": 250,
+		"size_x": 10,
+		"size_y": 64
+	},
+	"ball":
+	{
+		"speed": 250,
+		"size_x": 12,
+		"size_y": 12
+	},
+	"ai":
+	{
+		"difficulty": "medium"
+	}
+	
+}
